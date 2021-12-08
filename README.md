@@ -1,6 +1,6 @@
 # 旅遊網站後台
 
-[Github page 網頁連結]https://70928manson.github.io/tourismBackstage/)
+[Github page 網頁連結](https://70928manson.github.io/tourismBackstage/)
 
 練習項目:
  *  axios get遠端api資料
