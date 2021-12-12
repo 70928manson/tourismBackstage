@@ -1,5 +1,11 @@
 # 旅遊網站後台
 
-## 使用技術
-axios get api
-d3.js繪製比例圖(donut chart)，比例圖會隨select地區不同變化
+[Github page 網頁連結](https://70928manson.github.io/tourismBackstage/)
+
+練習項目:
+ *  axios get遠端api資料
+
+ *  d3.js繪製地區比例圖(donut chart) 
+
+ *  地區比例圖會依照新增資訊做變化
+ 
